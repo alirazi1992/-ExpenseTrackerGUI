@@ -38,7 +38,7 @@ This project helped me strengthen my **C# WinForms** skills by learning how to:
 ## 🖼 Screenshots
 
 ### 📊 Main Window with Total
-<img src="./Expense.png" alt="Main Window" width="500"/>
+<img src="./Expense .png" alt="Main Window" width="500"/>
 
 ---
 
